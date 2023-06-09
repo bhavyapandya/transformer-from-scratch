@@ -28,3 +28,8 @@ After extensive implementation and training, the Transformer Encoder architectur
 By leveraging the power of the Transformer Encoder, this project opens up opportunities for various natural language processing applications, including language translation, text summarization, and sentiment analysis.
 
 Get started with the code and unlock the potential of the Transformer Encoder for your own projects!
+
+
+## Author
+
+Bhavya Pandya
